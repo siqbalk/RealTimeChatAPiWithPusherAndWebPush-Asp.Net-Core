@@ -23,7 +23,7 @@
     <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1000" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.4" />
     <PackageReference Include="PusherServer" Version="4.2.0" />
-    <PackageReference Include="ServiceStack" Version="5.8.0" />
+    <PackageReference Include="ServiceStack" Version="5.9.2" />
     <PackageReference Include="WebPush" Version="1.0.11" />
   </ItemGroup>
 
